@@ -7,5 +7,5 @@ target 'pcmedic' do
 
   pod 'FirebaseAuth'
   pod 'FirebaseFirestore'
-
+  pod 'Firebase/Analytics'
 end
